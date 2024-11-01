@@ -17,7 +17,7 @@ This repository provides a step-by-step guide to set up an NGINX web server with
 
 ## Introduction
 
-This guide helps you configure an NGINX web server on AWS EC2 with SSL support to secure HTTP traffic. It includes instructions for setting up a Linux environment and managing configurations for NGINX and SSL certificates.
+This guide helps you configure an NGINX web server on AWS EC2 with SSL support to secure HTTP traffic. It includes instructions for setting up a Linux environment and managing configurations for NGINX and SSL certificates. For a detailed walkthrough, check out my article on Medium: **[Step-by-step Guide: Deploying NGINX Web Server with SSL on AWS EC2](https://medium.com/@abhixsh__/step-by-step-guide-deploying-nginx-web-server-with-ssl-on-aws-ec2-3780f6c29300)**.
 
 ## Prerequisites
 
@@ -56,4 +56,3 @@ This guide helps you configure an NGINX web server on AWS EC2 with SSL support t
 ## Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or suggestions.
-
